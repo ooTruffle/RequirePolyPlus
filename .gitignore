@@ -1,0 +1,10 @@
+.gradle/
+build/
+run/
+.idea/
+*.iml
+
+# local test server and its helpers
+server/
+start-server.bat
+tools/testbot.py
