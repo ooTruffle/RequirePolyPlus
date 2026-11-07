@@ -1,9 +1,0 @@
-{
-  "required": true,
-  "package": "dev.requirepolyplus.mixin",
-  "compatibilityLevel": "JAVA_21",
-  "mixins": ["BrandMixin"],
-  "injectors": {
-    "defaultRequire": 1
-  }
-}
